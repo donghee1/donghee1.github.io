@@ -1,11 +1,10 @@
 ---
-title: Reading List
+title: My Skills
 subtitle: a list of books I read
-layout: "page"
-icon: fa-book
-order: 3
----
-
+permalink: /skills
+icon: fa-graduation-cap
+order: 2
+--- 
 I love books! Here are some I'm reading now:
 
 1. Robert Burton: *The Anatomy of Melancholy*
